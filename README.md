@@ -14,3 +14,5 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=akshay-np973&icon=0&color=0)](https://visitcount.itsvg.in)
+#linkdin profile:
+[![](https://www.linkedin.com/in/akshay-n-p-030ab5330/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbLDSToX8SZ2Ig%2FGdykHFqw%3D%3D)
